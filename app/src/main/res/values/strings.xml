@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Valorant Agents</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search_agent">Search agent here</string>
+    <string name="back">Back</string>
+    <string name="name">Muhammad Farhan Anshor</string>
+    <string name="email">farhanputra.farhan8@gmail.com</string>
+    <string name="search">Search</string>
+    <string name="remove_favorite">Remove From Favorite</string>
+    <string name="add_favorite">Add To Favorite</string>
+    <string name="empty_favorite">No favorite agents yet</string>
+    <string name="no_agent">There is no agent</string>
+</resources>
